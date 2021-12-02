@@ -1,0 +1,16 @@
+.font-weight-light
+{
+    font-family: Brush Script MT;
+    font-weight: bold;
+    font-size: 70px;
+}
+.demo
+{
+    font-size: 25px;
+    font-weight: lighter;
+}
+.m-0 text-center text-white
+{
+    padding: 20px;
+}
+
